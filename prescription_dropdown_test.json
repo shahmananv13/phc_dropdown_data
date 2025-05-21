@@ -1,0 +1,9306 @@
+{
+    "cc": [
+        {
+            "id": 20,
+            "title": "Vertigo"
+        },
+        {
+            "id": 21,
+            "title": "Vaginal bleeding"
+        },
+        {
+            "id": 22,
+            "title": "UTI"
+        },
+        {
+            "id": 23,
+            "title": "Tonsillitis"
+        },
+        {
+            "id": 24,
+            "title": "Skin Infection"
+        },
+        {
+            "id": 25,
+            "title": "Severe headache"
+        },
+        {
+            "id": 26,
+            "title": "Seasonal Flu"
+        },
+        {
+            "id": 27,
+            "title": "Scabies"
+        },
+        {
+            "id": 28,
+            "title": "Rupture of membrane"
+        },
+        {
+            "id": 29,
+            "title": "Pharyngitis"
+        },
+        {
+            "id": 30,
+            "title": "Palpitation"
+        },
+        {
+            "id": 31,
+            "title": "Otitis media"
+        },
+        {
+            "id": 32,
+            "title": "Obesity"
+        },
+        {
+            "id": 33,
+            "title": "Numbness"
+        },
+        {
+            "id": 34,
+            "title": "Nausea"
+        },
+        {
+            "id": 35,
+            "title": "Nasal polyp"
+        },
+        {
+            "id": 36,
+            "title": "Multiple joint pain"
+        },
+        {
+            "id": 37,
+            "title": "Migraine"
+        },
+        {
+            "id": 38,
+            "title": "Lower abdominal pain"
+        },
+        {
+            "id": 39,
+            "title": "Vertigo"
+        },
+        {
+            "id": 40,
+            "title": "Vaginal bleeding"
+        },
+        {
+            "id": 41,
+            "title": "UTI"
+        },
+        {
+            "id": 42,
+            "title": "Tonsillitis"
+        },
+        {
+            "id": 43,
+            "title": "Skin Infection"
+        },
+        {
+            "id": 44,
+            "title": "Severe headache"
+        },
+        {
+            "id": 45,
+            "title": "Seasonal Flu"
+        },
+        {
+            "id": 46,
+            "title": "Scabies"
+        },
+        {
+            "id": 47,
+            "title": "Rupture of membrane"
+        },
+        {
+            "id": 48,
+            "title": "Pharyngitis"
+        },
+        {
+            "id": 49,
+            "title": "Palpitation"
+        },
+        {
+            "id": 50,
+            "title": "Otitis media"
+        },
+        {
+            "id": 51,
+            "title": "Obesity"
+        },
+        {
+            "id": 52,
+            "title": "Numbness"
+        },
+        {
+            "id": 53,
+            "title": "Nausea"
+        },
+        {
+            "id": 54,
+            "title": "Nasal polyp"
+        },
+        {
+            "id": 55,
+            "title": "Multiple joint pain"
+        },
+        {
+            "id": 56,
+            "title": "Migraine"
+        },
+        {
+            "id": 57,
+            "title": "Lower abdominal pain"
+        },
+        {
+            "id": 58,
+            "title": "Extension Codes 1"
+        },
+        {
+            "id": 59,
+            "title": "Extension Codes 3"
+        },
+        {
+            "id": 60,
+            "title": "Extension Codes 2"
+        },
+        {
+            "id": 61,
+            "title": "Vertigo"
+        },
+        {
+            "id": 62,
+            "title": "Vaginal bleeding"
+        },
+        {
+            "id": 63,
+            "title": "UTI"
+        },
+        {
+            "id": 64,
+            "title": "Tonsillitis"
+        },
+        {
+            "id": 65,
+            "title": "Skin Infection"
+        },
+        {
+            "id": 66,
+            "title": "Severe headache"
+        },
+        {
+            "id": 67,
+            "title": "Seasonal Flu"
+        },
+        {
+            "id": 68,
+            "title": "Scabies"
+        },
+        {
+            "id": 69,
+            "title": "Rupture of membrane"
+        },
+        {
+            "id": 70,
+            "title": "Pharyngitis"
+        },
+        {
+            "id": 71,
+            "title": "Palpitation"
+        },
+        {
+            "id": 72,
+            "title": "Otitis media"
+        },
+        {
+            "id": 73,
+            "title": "Obesity"
+        },
+        {
+            "id": 74,
+            "title": "Numbness"
+        },
+        {
+            "id": 75,
+            "title": "Nausea"
+        },
+        {
+            "id": 76,
+            "title": "Nasal polyp"
+        },
+        {
+            "id": 77,
+            "title": "Multiple joint pain"
+        },
+        {
+            "id": 78,
+            "title": "Migraine"
+        },
+        {
+            "id": 79,
+            "title": "Lower abdominal pain"
+        }
+    ],
+    "drug_hasmap":[
+        {
+            "id": 1,
+            "drug_name": "Angilock",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 2,
+            "drug_name": "Angiten",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 3,
+            "drug_name": "Betaloc",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 4,
+            "drug_name": "Presonil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 5,
+            "drug_name": "Osartil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 6,
+            "drug_name": "Cardival",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "40 mg",
+                "80 mg",
+                "160 mg"
+            ]
+        },
+        {
+            "id": 7,
+            "drug_name": "Stril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 8,
+            "drug_name": "Anapril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 9,
+            "drug_name": "Diovan",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg",
+                "80 mg",
+                "160 mg"
+            ]
+        },
+        {
+            "id": 10,
+            "drug_name": "Amaryl",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "2mg",
+                "3 mg",
+                "4 mg"
+            ]
+        },
+        {
+            "id": 11,
+            "drug_name": "Anaflex",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 12,
+            "drug_name": "Ranitid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "150 mg"
+            ]
+        },
+        {
+            "id": 13,
+            "drug_name": "Bopam",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "3 mg"
+            ]
+        },
+        {
+            "id": 14,
+            "drug_name": "Tryptin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 15,
+            "drug_name": "Xionil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "3 mg"
+            ]
+        },
+        {
+            "id": 16,
+            "drug_name": "Joinix plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 18,
+            "drug_name": "Omep",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 20,
+            "drug_name": "Amdocal 25 plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg"
+            ]
+        },
+        {
+            "id": 21,
+            "drug_name": "Amdocal 50 Plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 22,
+            "drug_name": "Rivotril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg",
+                "2mg"
+            ]
+        },
+        {
+            "id": 23,
+            "drug_name": "Pantonix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 26,
+            "drug_name": "Tenoren",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 30,
+            "drug_name": "ESP",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 31,
+            "drug_name": "Entacyd plus",
+            "type": [
+                "Tab",
+                "Syp"
+            ]
+        },
+        {
+            "id": 32,
+            "drug_name": "Entacyd plus",
+            "type": [
+                "Tab",
+                "Syp"
+            ]
+        },
+        {
+            "id": 33,
+            "drug_name": "Anadol",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 34,
+            "drug_name": "Emistat",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "8 mg",
+                "4mg"
+            ]
+        },
+        {
+            "id": 35,
+            "drug_name": "Prosan",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 36,
+            "drug_name": "Valsan",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "40 mg",
+                "80 mg",
+                "160 mg"
+            ]
+        },
+        {
+            "id": 37,
+            "drug_name": "Disys",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg",
+                "80 mg",
+                "160 mg"
+            ]
+        },
+        {
+            "id": 38,
+            "drug_name": "Filwel gold",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 39,
+            "drug_name": "Cardopril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 40,
+            "drug_name": "Acetor",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 41,
+            "drug_name": "Enaril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 42,
+            "drug_name": "Vasopril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 43,
+            "drug_name": "Minipril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 44,
+            "drug_name": "Acepril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 45,
+            "drug_name": "Lipril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 46,
+            "drug_name": "Piozena",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg"
+            ]
+        },
+        {
+            "id": 47,
+            "drug_name": "Fastril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 48,
+            "drug_name": "Ripril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg",
+                "5 mg",
+                "10 mg",
+                "1.25 mg"
+            ]
+        },
+        {
+            "id": 49,
+            "drug_name": "Ramoril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1.25 mg",
+                "2.5 mg",
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 50,
+            "drug_name": "Ramace",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1.25 mg",
+                "2.5 mg",
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 51,
+            "drug_name": "Ramipro",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1.25 mg",
+                "2.5 mg",
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 52,
+            "drug_name": "Coversyl",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2 mg",
+                "4 mg",
+                "8mg"
+            ]
+        },
+        {
+            "id": 53,
+            "drug_name": "Cadnyl 4",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2 mg",
+                "4 mg",
+                "8mg"
+            ]
+        },
+        {
+            "id": 54,
+            "drug_name": "Peripril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2 mg",
+                "4 mg",
+                "8mg"
+            ]
+        },
+        {
+            "id": 55,
+            "drug_name": "Pendoril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2 mg",
+                "4 mg",
+                "8mg"
+            ]
+        },
+        {
+            "id": 56,
+            "drug_name": "Metaloc",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 57,
+            "drug_name": "Tenoloc",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 58,
+            "drug_name": "Betanol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 59,
+            "drug_name": "Cardipro",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 60,
+            "drug_name": "Bisocor",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg",
+                "5 mg"
+            ]
+        },
+        {
+            "id": 61,
+            "drug_name": "Ancor",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg",
+                "5 mg"
+            ]
+        },
+        {
+            "id": 62,
+            "drug_name": "Bislol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg",
+                "5 mg"
+            ]
+        },
+        {
+            "id": 63,
+            "drug_name": "Concor",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg",
+                "5 mg"
+            ]
+        },
+        {
+            "id": 64,
+            "drug_name": "Carvista",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "6.25 mg",
+                "12.5 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 65,
+            "drug_name": "Dilapress",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "6.25 mg",
+                "12.5 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 66,
+            "drug_name": "Cavelon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "6.25 mg",
+                "12.5 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 67,
+            "drug_name": "Dilgard",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "6.25 mg",
+                "12.5 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 68,
+            "drug_name": "Amdocal",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 69,
+            "drug_name": "Camlodin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 70,
+            "drug_name": "Amlotab",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 71,
+            "drug_name": "Amlopin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 72,
+            "drug_name": "Nifecap",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "5 mg",
+                "20mg"
+            ]
+        },
+        {
+            "id": 73,
+            "drug_name": "Nifin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg"
+            ]
+        },
+        {
+            "id": 74,
+            "drug_name": "Nidipine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg"
+            ]
+        },
+        {
+            "id": 75,
+            "drug_name": "Nidipine SR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg"
+            ]
+        },
+        {
+            "id": 76,
+            "drug_name": "Cardizem",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "60 mg",
+                "90 mg",
+                "120 mg"
+            ]
+        },
+        {
+            "id": 77,
+            "drug_name": "Ditizem SR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "60 mg",
+                "90 mg",
+                "120 mg"
+            ]
+        },
+        {
+            "id": 78,
+            "drug_name": "Evascon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "60 mg",
+                "90 mg",
+                "120 mg"
+            ]
+        },
+        {
+            "id": 79,
+            "drug_name": "Cardizem SR",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "30 mg",
+                "60 mg",
+                "90 mg",
+                "120 mg"
+            ]
+        },
+        {
+            "id": 80,
+            "drug_name": "Acuren",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 81,
+            "drug_name": "HTZ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 82,
+            "drug_name": "Beklo",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 83,
+            "drug_name": "Lasix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg"
+            ]
+        },
+        {
+            "id": 84,
+            "drug_name": "Frusin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg",
+                "20 mg"
+            ]
+        },
+        {
+            "id": 85,
+            "drug_name": "Frusix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20/50 mg",
+                "40/50 mg"
+            ]
+        },
+        {
+            "id": 86,
+            "drug_name": "Edeloss",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 87,
+            "drug_name": "Edeloss Plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 88,
+            "drug_name": "Frulac",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20/50 mg",
+                "40/50 mg",
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 89,
+            "drug_name": "Frulac 40",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40/50 mg",
+                "20/50 mg"
+            ]
+        },
+        {
+            "id": 90,
+            "drug_name": "Fusid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20 mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 91,
+            "drug_name": "Fusid plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20/50 mg",
+                "40/50 mg"
+            ]
+        },
+        {
+            "id": 92,
+            "drug_name": "Lasilactone",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 93,
+            "drug_name": "Comprid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg",
+                "30 mg"
+            ]
+        },
+        {
+            "id": 94,
+            "drug_name": "Comprid XR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "80 mg"
+            ]
+        },
+        {
+            "id": 95,
+            "drug_name": "Consucon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "80 mg"
+            ]
+        },
+        {
+            "id": 96,
+            "drug_name": "Consucon MR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "80 mg"
+            ]
+        },
+        {
+            "id": 97,
+            "drug_name": "Dimerol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "80 mg"
+            ]
+        },
+        {
+            "id": 98,
+            "drug_name": "Dimerol MR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg",
+                "30 mg",
+                "60 mg"
+            ]
+        },
+        {
+            "id": 99,
+            "drug_name": "Diapro",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "80 mg"
+            ]
+        },
+        {
+            "id": 100,
+            "drug_name": "Secrin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "2mg",
+                "3 mg",
+                "4 mg"
+            ]
+        },
+        {
+            "id": 101,
+            "drug_name": "Losucon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "2mg",
+                "3 mg",
+                "4 mg"
+            ]
+        },
+        {
+            "id": 102,
+            "drug_name": "Diaryl",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "2mg",
+                "3 mg",
+                "4 mg"
+            ]
+        },
+        {
+            "id": 103,
+            "drug_name": "Comet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "500 mg",
+                "750 mg",
+                "850 mg"
+            ]
+        },
+        {
+            "id": 104,
+            "drug_name": "Comet ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1gm",
+                "500mg",
+                "850 mg"
+            ]
+        },
+        {
+            "id": 105,
+            "drug_name": "Sucomet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "500 mg",
+                "750 mg",
+                "850 mg"
+            ]
+        },
+        {
+            "id": 106,
+            "drug_name": "Sucomet-850",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "500 mg",
+                "750 mg",
+                "850 mg"
+            ]
+        },
+        {
+            "id": 107,
+            "drug_name": "Oramet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "500 mg",
+                "750 mg",
+                "850 mg"
+            ]
+        },
+        {
+            "id": 108,
+            "drug_name": "Oramet SR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "500 mg",
+                "750 mg",
+                "850 mg"
+            ]
+        },
+        {
+            "id": 109,
+            "drug_name": "Glucomet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg",
+                "500 mg",
+                "750 mg",
+                "850 mg"
+            ]
+        },
+        {
+            "id": 110,
+            "drug_name": "Glucomet 500XR",
+            "type": [
+                "Tab"
+            ],
+            "size": []
+        },
+        {
+            "id": 111,
+            "drug_name": "Glucomet750XR",
+            "type": [
+                "Tab"
+            ],
+            "size": []
+        },
+        {
+            "id": 112,
+            "drug_name": "Losan",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 113,
+            "drug_name": "Camlodin 50 plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/50 mg"
+            ]
+        },
+        {
+            "id": 114,
+            "drug_name": "Fenadin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "60 mg",
+                "120 mg",
+                "180 mg",
+                "30 mg"
+            ]
+        },
+        {
+            "id": 115,
+            "drug_name": "Monas",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "4 mg",
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 116,
+            "drug_name": "Seclo",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 117,
+            "drug_name": "Laxyl",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "3 mg"
+            ]
+        },
+        {
+            "id": 118,
+            "drug_name": "Moodon",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 119,
+            "drug_name": "Ceevit",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 120,
+            "drug_name": "Norry",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "3 mg"
+            ]
+        },
+        {
+            "id": 121,
+            "drug_name": "Sergel",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 122,
+            "drug_name": "seclo",
+            "type": [
+                "Tab",
+                "Cap"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 123,
+            "drug_name": "Frenxit",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 124,
+            "drug_name": "Angitor",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg"
+            ]
+        },
+        {
+            "id": 125,
+            "drug_name": "Rabe",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 126,
+            "drug_name": "Ciprocin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg",
+                "750 mg"
+            ]
+        },
+        {
+            "id": 127,
+            "drug_name": "Viset",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 128,
+            "drug_name": "E-Vit",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "200 IU",
+                "400 IU"
+            ]
+        },
+        {
+            "id": 129,
+            "drug_name": "Napadol",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 130,
+            "drug_name": "Vitabion",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 131,
+            "drug_name": "Rex",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 132,
+            "drug_name": "Flugal",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "50 mg",
+                "150 mg"
+            ]
+        },
+        {
+            "id": 133,
+            "drug_name": "Select plus",
+            "type": [
+                "Shampoo"
+            ]
+        },
+        {
+            "id": 134,
+            "drug_name": "Indever",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 135,
+            "drug_name": "Fixocard",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "(5/25) mg",
+                "(5/50) mg"
+            ]
+        },
+        {
+            "id": 136,
+            "drug_name": "Multivit plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 137,
+            "drug_name": "Neuro B",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 138,
+            "drug_name": "Ostocal D",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 139,
+            "drug_name": "Camlodin 25 plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/25 mg"
+            ]
+        },
+        {
+            "id": 140,
+            "drug_name": "Mervan",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 141,
+            "drug_name": "Flexi",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 142,
+            "drug_name": "Secnid DS",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 gm"
+            ]
+        },
+        {
+            "id": 143,
+            "drug_name": "Domiren",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 144,
+            "drug_name": "Omidon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 145,
+            "drug_name": "Voltalin",
+            "type": [
+                "Tab",
+                "Suppos",
+                "Inj"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "75 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 146,
+            "drug_name": "Clofenac",
+            "type": [
+                "Tab",
+                "Suppos",
+                "Inj"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "75 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 147,
+            "drug_name": "A- Fenac",
+            "type": [
+                "Tab",
+                "Suppos",
+                "Inj"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "75 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 148,
+            "drug_name": "Inflam",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "300 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 149,
+            "drug_name": "Flamex",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "200 mg",
+                "300 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 150,
+            "drug_name": "Naprox",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 151,
+            "drug_name": "Neoceptin-R",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "150 mg"
+            ]
+        },
+        {
+            "id": 152,
+            "drug_name": "Napa",
+            "type": [
+                "Tab",
+                "Suppos",
+                "Syp"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 153,
+            "drug_name": "Napa Extend",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "665 mg"
+            ]
+        },
+        {
+            "id": 154,
+            "drug_name": "ORS",
+            "type": [
+                "Saline"
+            ]
+        },
+        {
+            "id": 155,
+            "drug_name": "Ace",
+            "type": [
+                "Tab",
+                "Suppos"
+            ],
+            "size": [
+                "250 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 156,
+            "drug_name": "Ace plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 157,
+            "drug_name": "Napa Extra",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 158,
+            "drug_name": "Esonix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 159,
+            "drug_name": "Esotid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 160,
+            "drug_name": "Maxpro",
+            "type": [
+                "Tab",
+                "Cap"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 162,
+            "drug_name": "Pantid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 163,
+            "drug_name": "Omenix",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 164,
+            "drug_name": "Ipec plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 165,
+            "drug_name": "Bextrum silver",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 166,
+            "drug_name": "Clonatril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg",
+                "2 mg"
+            ]
+        },
+        {
+            "id": 167,
+            "drug_name": "Xinc-B",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 168,
+            "drug_name": "Ostocal",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 169,
+            "drug_name": "Calbon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 170,
+            "drug_name": "Renxit",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 171,
+            "drug_name": "Norzin",
+            "type": [
+                "Tab"
+            ],
+            "size": []
+        },
+        {
+            "id": 172,
+            "drug_name": "Gynomix VT",
+            "type": [
+                "Suppos"
+            ]
+        },
+        {
+            "id": 173,
+            "drug_name": "A-Fun",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 174,
+            "drug_name": "Gynomix VT",
+            "type": [
+                "Suppos"
+            ]
+        },
+        {
+            "id": 175,
+            "drug_name": "Renxit",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 176,
+            "drug_name": "Fillwel silver ",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 177,
+            "drug_name": "zinc B ",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 178,
+            "drug_name": "Montair",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "4 mg",
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 179,
+            "drug_name": "Vidalin Gold",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 180,
+            "drug_name": "Proviten A-Z",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 181,
+            "drug_name": "Proviten Silver",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 182,
+            "drug_name": "Aristo Gold",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 183,
+            "drug_name": "Proviten Silver",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 184,
+            "drug_name": "Avolac",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 185,
+            "drug_name": "Apsol oral paste",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 186,
+            "drug_name": "Reumacap",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "25 mg"
+            ]
+        },
+        {
+            "id": 187,
+            "drug_name": "Losart 50 Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 188,
+            "drug_name": "Aristovit-B",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 189,
+            "drug_name": "Pregaba",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "75 mg"
+            ]
+        },
+        {
+            "id": 190,
+            "drug_name": "Probitor",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 191,
+            "drug_name": "Marlox plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 192,
+            "drug_name": "Deslor",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 193,
+            "drug_name": "Indomet",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "25 mg",
+                "75 mg"
+            ]
+        },
+        {
+            "id": 194,
+            "drug_name": "Myolax",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 195,
+            "drug_name": "Anustat",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 196,
+            "drug_name": "Normanol",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 197,
+            "drug_name": "HPR",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 198,
+            "drug_name": "Ventolin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "4 mg"
+            ]
+        },
+        {
+            "id": 199,
+            "drug_name": "Quinox",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 200,
+            "drug_name": "Nordette 28",
+            "type": [
+                "Tab"
+            ],
+            "size": []
+        },
+        {
+            "id": 201,
+            "drug_name": "Mucolet",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 202,
+            "drug_name": "meverin ",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 203,
+            "drug_name": "Uromax",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.4 mg"
+            ]
+        },
+        {
+            "id": 204,
+            "drug_name": "Sedil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 205,
+            "drug_name": "Rostril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "135 mg"
+            ]
+        },
+        {
+            "id": 206,
+            "drug_name": "Rutix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg",
+                "200 mg"
+            ]
+        },
+        {
+            "id": 207,
+            "drug_name": "Mixterd 30 HM 100",
+            "type": [
+                "Inj"
+            ],
+            "size": []
+        },
+        {
+            "id": 208,
+            "drug_name": "Filmet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 209,
+            "drug_name": "Atova",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 210,
+            "drug_name": "Prosan 50 HZ",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 211,
+            "drug_name": "Angilock 50 Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 212,
+            "drug_name": "Cef-3",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "200 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 213,
+            "drug_name": "Alatrol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 214,
+            "drug_name": "Ecosprin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 215,
+            "drug_name": "Renova",
+            "type": [
+                "Tab",
+                "Syp",
+                "Suppos"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 216,
+            "drug_name": "Camlodin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 217,
+            "drug_name": "Nitromint SR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.6 mg"
+            ]
+        },
+        {
+            "id": 219,
+            "drug_name": "Secnid-DS",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 gm"
+            ]
+        },
+        {
+            "id": 220,
+            "drug_name": "Econate-VT",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 221,
+            "drug_name": "Torax",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 222,
+            "drug_name": "Metro",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 223,
+            "drug_name": "Gynokmix VT",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 224,
+            "drug_name": "Filmet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg"
+            ]
+        },
+        {
+            "id": 225,
+            "drug_name": "Encorate",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 226,
+            "drug_name": "Nortrin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg"
+            ]
+        },
+        {
+            "id": 227,
+            "drug_name": "Perkinil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 228,
+            "drug_name": "Bisoprol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 229,
+            "drug_name": "Vanprox",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "50 mg",
+                "25 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 230,
+            "drug_name": "Finix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 231,
+            "drug_name": "Betnovate-CL",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 232,
+            "drug_name": "ultrafen",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 233,
+            "drug_name": "Tofen",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "1 mg"
+            ]
+        },
+        {
+            "id": 234,
+            "drug_name": "Pep 20",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 235,
+            "drug_name": "Fixocard (5/50)",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 236,
+            "drug_name": "Azmasol HFA Inhaler"
+        },
+        {
+            "id": 237,
+            "drug_name": "Contine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg"
+            ]
+        },
+        {
+            "id": 238,
+            "drug_name": "Scabex",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 239,
+            "drug_name": "Losart  25 Plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "(5/25) mg"
+            ]
+        },
+        {
+            "id": 240,
+            "drug_name": "Ambrox",
+            "type": [
+                "Syp",
+                "Cap"
+            ]
+        },
+        {
+            "id": 241,
+            "drug_name": "Levoxin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg",
+                "750 mg"
+            ]
+        },
+        {
+            "id": 242,
+            "drug_name": "Tenocab",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "(5/25) mg",
+                "(5/50) mg"
+            ]
+        },
+        {
+            "id": 243,
+            "drug_name": "Montene",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 244,
+            "drug_name": "Flexibac",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 245,
+            "drug_name": "Stemetil",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 246,
+            "drug_name": "antazol",
+            "type": [
+                "Nasal Drop"
+            ]
+        },
+        {
+            "id": 247,
+            "drug_name": "Avil Rtd.",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 248,
+            "drug_name": "Metfo",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "850 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 249,
+            "drug_name": "Loratin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 250,
+            "drug_name": "Cefotil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 251,
+            "drug_name": "Kilmax",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 252,
+            "drug_name": "Kilbsc",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 253,
+            "drug_name": "Alben DS",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg"
+            ]
+        },
+        {
+            "id": 254,
+            "drug_name": "Tiginor",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg"
+            ]
+        },
+        {
+            "id": 255,
+            "drug_name": "Bromocriptine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg"
+            ]
+        },
+        {
+            "id": 256,
+            "drug_name": "Necter",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 257,
+            "drug_name": "Gestrenol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 258,
+            "drug_name": "normens",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 259,
+            "drug_name": "Algin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 260,
+            "drug_name": "Onium",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 261,
+            "drug_name": "Tinium",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 262,
+            "drug_name": "Beuflox",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 263,
+            "drug_name": "Neofloxin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 264,
+            "drug_name": "Zif-CI",
+            "type": [
+                "Tab",
+                "Cap"
+            ]
+        },
+        {
+            "id": 265,
+            "drug_name": "Bukof",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 266,
+            "drug_name": "vertina plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 267,
+            "drug_name": "omastin ointment",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 268,
+            "drug_name": "aclovet ointment",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 269,
+            "drug_name": "microral gel",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 270,
+            "drug_name": "Setra",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 271,
+            "drug_name": "OVESTIN ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg"
+            ]
+        },
+        {
+            "id": 272,
+            "drug_name": "Losectil",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 273,
+            "drug_name": "PREGABA",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg",
+                "150 mg",
+                "75 mg"
+            ]
+        },
+        {
+            "id": 274,
+            "drug_name": "Zimax",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 275,
+            "drug_name": "Glucozid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg"
+            ]
+        },
+        {
+            "id": 276,
+            "drug_name": "Bexitrol-F",
+            "type": [
+                "Inhaler"
+            ],
+            "size": [
+                "25/250 mic",
+                "50/250 mic"
+            ]
+        },
+        {
+            "id": 277,
+            "drug_name": "Maxsulin 30/70",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "U-100,(S-1)",
+                "U-40.(S-40)"
+            ]
+        },
+        {
+            "id": 278,
+            "drug_name": "Maxsulin 50/50",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "U-100,(S-1)",
+                "U-40.(S-40)"
+            ]
+        },
+        {
+            "id": 279,
+            "drug_name": "Actrapid ",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "U-100,(S-1)",
+                "U-40.(S-40)"
+            ]
+        },
+        {
+            "id": 280,
+            "drug_name": "Cinaron",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "15mg"
+            ]
+        },
+        {
+            "id": 281,
+            "drug_name": "xamic",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 282,
+            "drug_name": "Omlesan 20 Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 283,
+            "drug_name": "Omlesan",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 284,
+            "drug_name": "Sultolin Inhaler"
+        },
+        {
+            "id": 285,
+            "drug_name": "Tramal",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 286,
+            "drug_name": "Tamen X",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 287,
+            "drug_name": "Flucloxin",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 288,
+            "drug_name": "PhylopenDS",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 289,
+            "drug_name": "Spotclen Plus",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 290,
+            "drug_name": "Norium",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 291,
+            "drug_name": "Terbex",
+            "type": [
+                "Tab",
+                "Cream"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 292,
+            "drug_name": "Ecotrim",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 293,
+            "drug_name": "Zox",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 294,
+            "drug_name": "Equra ointment",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 295,
+            "drug_name": "Flugal ointment",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 296,
+            "drug_name": "Magsulf syp",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 297,
+            "drug_name": "Flixonase Nasal Spray"
+        },
+        {
+            "id": 298,
+            "drug_name": "Zymet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 300,
+            "drug_name": "Novelta",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 301,
+            "drug_name": "Kenalog oro-base",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 302,
+            "drug_name": "Exovate",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 303,
+            "drug_name": "Acliz",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 304,
+            "drug_name": "Ceftron",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "500 mg",
+                "1 gm",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 305,
+            "drug_name": "Pawar",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20 mg"
+            ]
+        },
+        {
+            "id": 306,
+            "drug_name": "Glycerine ",
+            "type": [
+                "Suppos"
+            ]
+        },
+        {
+            "id": 307,
+            "drug_name": "Pase",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg",
+                "2 mg"
+            ]
+        },
+        {
+            "id": 308,
+            "drug_name": "Tufnil",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 309,
+            "drug_name": "BUTAPEN",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 310,
+            "drug_name": "Fimoxyclav",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "625 mg"
+            ]
+        },
+        {
+            "id": 311,
+            "drug_name": "KY jelly"
+        },
+        {
+            "id": 312,
+            "drug_name": "Bextram Gold",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 313,
+            "drug_name": "Furocef",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 314,
+            "drug_name": "Riboson",
+            "type": [
+                "Tab"
+            ],
+            "size": []
+        },
+        {
+            "id": 315,
+            "drug_name": "Azin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 316,
+            "drug_name": "Rutix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 317,
+            "drug_name": "Ridon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 318,
+            "drug_name": "Ucol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2mg"
+            ]
+        },
+        {
+            "id": 319,
+            "drug_name": "Tufnil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 320,
+            "drug_name": "Clobate ointment",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 321,
+            "drug_name": "Norium-5",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 322,
+            "drug_name": "Becozin",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 323,
+            "drug_name": "EC",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 324,
+            "drug_name": "Glucozid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg"
+            ]
+        },
+        {
+            "id": 325,
+            "drug_name": "Mucolyte",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "8mg"
+            ]
+        },
+        {
+            "id": 326,
+            "drug_name": "Rezulin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "15/500 mg",
+                "15/850"
+            ]
+        },
+        {
+            "id": 327,
+            "drug_name": "Dermasol N",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 328,
+            "drug_name": "Doxicab",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 329,
+            "drug_name": "Nontoin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 330,
+            "drug_name": "Nintoin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 331,
+            "drug_name": "Adiponil",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "120 mg"
+            ]
+        },
+        {
+            "id": 332,
+            "drug_name": "Catapress 0.1mg",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 333,
+            "drug_name": "Oxycone MS",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 334,
+            "drug_name": "Oxycone MS",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 335,
+            "drug_name": "Gastralfet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 336,
+            "drug_name": "Maganta Plus",
+            "type": [
+                "Syp"
+            ],
+            "size": []
+        },
+        {
+            "id": 337,
+            "drug_name": "NAC",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "600"
+            ]
+        },
+        {
+            "id": 338,
+            "drug_name": "Dormicum",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "7.5 mg"
+            ]
+        },
+        {
+            "id": 339,
+            "drug_name": "Beclomin 100 Inhaler"
+        },
+        {
+            "id": 340,
+            "drug_name": "Opladin eye drop"
+        },
+        {
+            "id": 341,
+            "drug_name": "Iriban SR",
+            "type": [
+                "Cap"
+            ]
+        },
+        {
+            "id": 343,
+            "drug_name": "norzine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 344,
+            "drug_name": "Clopid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 345,
+            "drug_name": "Anclog",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 346,
+            "drug_name": "Ferocit",
+            "type": [
+                "Tab"
+            ],
+            "size": []
+        },
+        {
+            "id": 347,
+            "drug_name": "Micoderm ",
+            "type": [
+                "Oint"
+            ],
+            "size": []
+        },
+        {
+            "id": 348,
+            "drug_name": "Rifamax",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 349,
+            "drug_name": "Ferocit",
+            "type": [
+                "Cap"
+            ],
+            "size": []
+        },
+        {
+            "id": 350,
+            "drug_name": "Pizofen-TS",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 351,
+            "drug_name": "FOLISON",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 352,
+            "drug_name": "MOM",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 353,
+            "drug_name": "Seasonix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "5 mg"
+            ]
+        },
+        {
+            "id": 354,
+            "drug_name": "nomopil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg",
+                "1 mg",
+                "2 mg"
+            ]
+        },
+        {
+            "id": 355,
+            "drug_name": "Tos",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "15mg",
+                "30 mg"
+            ]
+        },
+        {
+            "id": 356,
+            "drug_name": "Ambrox SR",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 357,
+            "drug_name": "Bigmet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 358,
+            "drug_name": "Oclazid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg"
+            ]
+        },
+        {
+            "id": 359,
+            "drug_name": "Hemorif",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 360,
+            "drug_name": "Angilock 25 Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 361,
+            "drug_name": "Nitromint",
+            "type": [
+                "Spray"
+            ]
+        },
+        {
+            "id": 362,
+            "drug_name": "Daflon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 363,
+            "drug_name": "Bizoran",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/20",
+                "5/40"
+            ]
+        },
+        {
+            "id": 364,
+            "drug_name": "Nobesit",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 365,
+            "drug_name": "Azithrocin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 366,
+            "drug_name": "Omastin",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "50 mg",
+                "150 mg"
+            ]
+        },
+        {
+            "id": 367,
+            "drug_name": "Artica",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg"
+            ]
+        },
+        {
+            "id": 368,
+            "drug_name": "Oradin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 369,
+            "drug_name": "Acical D",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 370,
+            "drug_name": "Momvit plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 371,
+            "drug_name": "Neurocare",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 372,
+            "drug_name": "Fimoxyl",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 373,
+            "drug_name": "Zithrox",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 374,
+            "drug_name": "whitfield",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 375,
+            "drug_name": "Milk of Magnesia",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 376,
+            "drug_name": "Acical M",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 377,
+            "drug_name": "Traxyl",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 378,
+            "drug_name": "Azmasol  HFA Inhaler"
+        },
+        {
+            "id": 379,
+            "drug_name": "Histacin",
+            "type": [
+                "Tab",
+                "Syp"
+            ]
+        },
+        {
+            "id": 380,
+            "drug_name": "Zinc",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 381,
+            "drug_name": "Clob",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 382,
+            "drug_name": "Ometid",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 383,
+            "drug_name": "Nidocard ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.6 mg"
+            ]
+        },
+        {
+            "id": 384,
+            "drug_name": "Unicontine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "300 mg",
+                "400 mg",
+                "200 mg"
+            ]
+        },
+        {
+            "id": 385,
+            "drug_name": "Sulflu",
+            "type": [
+                "Inhaler"
+            ]
+        },
+        {
+            "id": 386,
+            "drug_name": "Calbo D",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 387,
+            "drug_name": "X trum",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 388,
+            "drug_name": "Nitrocard",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.6 mg"
+            ]
+        },
+        {
+            "id": 389,
+            "drug_name": "E-cap",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "200 IU",
+                "400 IU"
+            ]
+        },
+        {
+            "id": 390,
+            "drug_name": "Melixol",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 391,
+            "drug_name": "Valex",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 392,
+            "drug_name": "Neso",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 393,
+            "drug_name": "Neobion",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 394,
+            "drug_name": "Nidocard",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.6 mg"
+            ]
+        },
+        {
+            "id": 395,
+            "drug_name": "Acitrin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 396,
+            "drug_name": "Acitrin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 397,
+            "drug_name": "Magfin",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 398,
+            "drug_name": "Calcin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 399,
+            "drug_name": "Jointec Max",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 400,
+            "drug_name": "Calvimax",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 401,
+            "drug_name": "Mecol",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 402,
+            "drug_name": "Calvimax",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 403,
+            "drug_name": "Progesic",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "375 mg"
+            ]
+        },
+        {
+            "id": 404,
+            "drug_name": "Progesic",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "375 mg"
+            ]
+        },
+        {
+            "id": 405,
+            "drug_name": "Opton",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 406,
+            "drug_name": "Moxaclave",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "625 mg",
+                "375 mg"
+            ]
+        },
+        {
+            "id": 407,
+            "drug_name": "Moxaclave",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "625 mg"
+            ]
+        },
+        {
+            "id": 408,
+            "drug_name": "Neurobest",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 409,
+            "drug_name": "Revert",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 410,
+            "drug_name": "Omex",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 411,
+            "drug_name": "Vasco",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 412,
+            "drug_name": "Inclox",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "250 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 413,
+            "drug_name": "Evo",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 414,
+            "drug_name": "Rabeca",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 415,
+            "drug_name": "Caldil plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 416,
+            "drug_name": "Ferocit Z",
+            "type": [
+                "Cap"
+            ]
+        },
+        {
+            "id": 417,
+            "drug_name": "Naprosyn",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 418,
+            "drug_name": "Ranidin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "150 mg"
+            ]
+        },
+        {
+            "id": 419,
+            "drug_name": "Deflux",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 420,
+            "drug_name": "Ciprox ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 421,
+            "drug_name": "Furocef",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 422,
+            "drug_name": "Betacin-N",
+            "type": [
+                "Oint",
+                "Cream"
+            ]
+        },
+        {
+            "id": 423,
+            "drug_name": "Cortan",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "20 mg"
+            ]
+        },
+        {
+            "id": 424,
+            "drug_name": "Gaba-P",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "300 mg"
+            ]
+        },
+        {
+            "id": 425,
+            "drug_name": "Calboplex",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 426,
+            "drug_name": "Nameso",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "375 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 427,
+            "drug_name": "Esogut",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 428,
+            "drug_name": "Fexo",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "60 mg",
+                "120 mg",
+                "180 mg"
+            ]
+        },
+        {
+            "id": 429,
+            "drug_name": "Etorix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "60 mg",
+                "90 mg",
+                "120 mg"
+            ]
+        },
+        {
+            "id": 430,
+            "drug_name": "Dermovate",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 431,
+            "drug_name": "Multivit plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 432,
+            "drug_name": "Dysmen",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 433,
+            "drug_name": "Fungidal",
+            "type": [
+                "Tab",
+                "Cream"
+            ]
+        },
+        {
+            "id": 434,
+            "drug_name": "Power B",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 435,
+            "drug_name": "Aristovit-M",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 436,
+            "drug_name": "Rabezol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 437,
+            "drug_name": "Amelin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 438,
+            "drug_name": "AtoZ",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 439,
+            "drug_name": "Beovit",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 440,
+            "drug_name": "Pegalin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg",
+                "75 mg",
+                "100 mg",
+                "150 mg"
+            ]
+        },
+        {
+            "id": 441,
+            "drug_name": "Ostogen",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 442,
+            "drug_name": "Feofol CI",
+            "type": [
+                "Cap"
+            ]
+        },
+        {
+            "id": 443,
+            "drug_name": "Cefix ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 444,
+            "drug_name": "Metryl",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 445,
+            "drug_name": "Mave",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "135 mg"
+            ]
+        },
+        {
+            "id": 446,
+            "drug_name": "Cipro-A",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 447,
+            "drug_name": "Fexofen",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "60 mg",
+                "120 mg",
+                "180 mg"
+            ]
+        },
+        {
+            "id": 448,
+            "drug_name": "Fluclox",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 449,
+            "drug_name": "Afrin",
+            "type": [
+                "Nasal Drop"
+            ]
+        },
+        {
+            "id": 450,
+            "drug_name": "Nebanol plus",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 451,
+            "drug_name": "Icy Cool Max",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 452,
+            "drug_name": "Clognil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 453,
+            "drug_name": "Arotril",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg",
+                "1 mg"
+            ]
+        },
+        {
+            "id": 454,
+            "drug_name": "Gynaepro VT",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 455,
+            "drug_name": "Cotrim",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 456,
+            "drug_name": "Esloric",
+            "type": [
+                "Tab",
+                "Suppos"
+            ]
+        },
+        {
+            "id": 457,
+            "drug_name": "Febus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg"
+            ]
+        },
+        {
+            "id": 458,
+            "drug_name": "Febus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg"
+            ]
+        },
+        {
+            "id": 459,
+            "drug_name": "Febustat",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg"
+            ]
+        },
+        {
+            "id": 460,
+            "drug_name": "Febustat",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg"
+            ]
+        },
+        {
+            "id": 461,
+            "drug_name": "Barif",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80 mg"
+            ]
+        },
+        {
+            "id": 462,
+            "drug_name": "Barif",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg"
+            ]
+        },
+        {
+            "id": 463,
+            "drug_name": "Paricel",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 464,
+            "drug_name": "Paricel",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 465,
+            "drug_name": "Cerox CV",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 466,
+            "drug_name": "Cerox CV",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 467,
+            "drug_name": "Humulin Penfill",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "30/70"
+            ]
+        },
+        {
+            "id": 468,
+            "drug_name": "Endeavour",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 469,
+            "drug_name": "Ovulet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "100 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 470,
+            "drug_name": "Normens",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 471,
+            "drug_name": "Zolium",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg"
+            ]
+        },
+        {
+            "id": 472,
+            "drug_name": "Urodart",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "0.5 mg"
+            ]
+        },
+        {
+            "id": 473,
+            "drug_name": "Urodart",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 474,
+            "drug_name": "curin"
+        },
+        {
+            "id": 475,
+            "drug_name": "solas",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 476,
+            "drug_name": "Econate",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 477,
+            "drug_name": "Dimecron",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 478,
+            "drug_name": "Pevtin",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 479,
+            "drug_name": "Beclo",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 480,
+            "drug_name": "Cef-3",
+            "type": [
+                "Syp",
+                "Tab",
+                "Cap"
+            ],
+            "size": [
+                "200 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 481,
+            "drug_name": "Naprosyn plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 482,
+            "drug_name": "naprox gel"
+        },
+        {
+            "id": 483,
+            "drug_name": "Pyrenol",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 484,
+            "drug_name": "Gelora Oral Gel"
+        },
+        {
+            "id": 485,
+            "drug_name": "Nystat Oral Drop"
+        },
+        {
+            "id": 486,
+            "drug_name": "Viodin Mouth Wash"
+        },
+        {
+            "id": 487,
+            "drug_name": "Scabex",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 488,
+            "drug_name": "Adovas",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 489,
+            "drug_name": "Rifagut",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "550"
+            ]
+        },
+        {
+            "id": 490,
+            "drug_name": "Adovas",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 491,
+            "drug_name": "Dilentin",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 492,
+            "drug_name": "Flacol",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 493,
+            "drug_name": "permin plus"
+        },
+        {
+            "id": 494,
+            "drug_name": "prodep"
+        },
+        {
+            "id": 495,
+            "drug_name": "Metacard MR"
+        },
+        {
+            "id": 496,
+            "drug_name": "pen-V"
+        },
+        {
+            "id": 497,
+            "drug_name": "longpara",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "665 mg"
+            ]
+        },
+        {
+            "id": 498,
+            "drug_name": "Relentus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "4 mg",
+                "2 mg"
+            ]
+        },
+        {
+            "id": 499,
+            "drug_name": "sentix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg"
+            ]
+        },
+        {
+            "id": 500,
+            "drug_name": "prodep",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 501,
+            "drug_name": "Telabid 1",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "1 mg"
+            ]
+        },
+        {
+            "id": 502,
+            "drug_name": "Esloric",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 503,
+            "drug_name": "Vergon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 505,
+            "drug_name": "skinalar",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 506,
+            "drug_name": "Exium",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20 mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 507,
+            "drug_name": "amlovas vs",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/ 80"
+            ]
+        },
+        {
+            "id": 508,
+            "drug_name": "purisal ",
+            "type": [
+                "Tab",
+                "Tab"
+            ],
+            "size": [
+                "2 mg"
+            ]
+        },
+        {
+            "id": 509,
+            "drug_name": "epitra ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2 mg"
+            ]
+        },
+        {
+            "id": 510,
+            "drug_name": "Duloxen",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg"
+            ]
+        },
+        {
+            "id": 511,
+            "drug_name": "Fibogel"
+        },
+        {
+            "id": 512,
+            "drug_name": "Modipran ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 513,
+            "drug_name": "Sergel",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 514,
+            "drug_name": "Vaxtin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 515,
+            "drug_name": "beclomin inhaler"
+        },
+        {
+            "id": 516,
+            "drug_name": "Purisal ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2 mg",
+                "1 mg"
+            ]
+        },
+        {
+            "id": 517,
+            "drug_name": "Facid HC ",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 518,
+            "drug_name": "Cronix lotion "
+        },
+        {
+            "id": 519,
+            "drug_name": "Nystat",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 520,
+            "drug_name": "Nystat",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 521,
+            "drug_name": "Rosuva ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 522,
+            "drug_name": "coracal D",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 523,
+            "drug_name": "fossical D",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 524,
+            "drug_name": "Refaxin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 525,
+            "drug_name": "Refaxin"
+        },
+        {
+            "id": 526,
+            "drug_name": "Ultrafen ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 SR"
+            ]
+        },
+        {
+            "id": 527,
+            "drug_name": "Intimate ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 528,
+            "drug_name": "Telfin",
+            "type": [
+                "Cream"
+            ]
+        },
+        {
+            "id": 529,
+            "drug_name": "Flucoder",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "150 mg",
+                "50"
+            ]
+        },
+        {
+            "id": 530,
+            "drug_name": "Pase",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg"
+            ]
+        },
+        {
+            "id": 531,
+            "drug_name": "Pase",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg",
+                "1 mg"
+            ]
+        },
+        {
+            "id": 532,
+            "drug_name": "Lantus soloStar pen "
+        },
+        {
+            "id": 533,
+            "drug_name": "Maxsulin 50/50",
+            "type": [
+                "Inj"
+            ]
+        },
+        {
+            "id": 534,
+            "drug_name": "Metfar",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg SR"
+            ]
+        },
+        {
+            "id": 535,
+            "drug_name": "Natrilix SR",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 536,
+            "drug_name": "Ritch Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 537,
+            "drug_name": "Ritch",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "60 mg",
+                "120 mg"
+            ]
+        },
+        {
+            "id": 538,
+            "drug_name": "Ritch",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "120 mg"
+            ]
+        },
+        {
+            "id": 539,
+            "drug_name": "Iprasol Inhaler HFA",
+            "type": [
+                "Inhaler"
+            ]
+        },
+        {
+            "id": 540,
+            "drug_name": "Espa",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40 mg"
+            ]
+        },
+        {
+            "id": 541,
+            "drug_name": "mozo5",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 542,
+            "drug_name": "Alcet ",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 543,
+            "drug_name": "Piriton",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 544,
+            "drug_name": "Permin 5%",
+            "type": [
+                "Cream"
+            ],
+            "size": [
+                "30 gm"
+            ]
+        },
+        {
+            "id": 545,
+            "drug_name": "Osartil 50 Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 546,
+            "drug_name": "Feburen ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "40"
+            ]
+        },
+        {
+            "id": 547,
+            "drug_name": "Moxacil",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 548,
+            "drug_name": "Metsa ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "850"
+            ]
+        },
+        {
+            "id": 549,
+            "drug_name": "Consucon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "80mg"
+            ]
+        },
+        {
+            "id": 550,
+            "drug_name": "Larb ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 551,
+            "drug_name": "Zithrox ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 552,
+            "drug_name": "Alcet",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 553,
+            "drug_name": "Parapyrol ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 555,
+            "drug_name": "salbutamol",
+            "type": [
+                "Inhaler"
+            ],
+            "size": [
+                "100 microgram"
+            ]
+        },
+        {
+            "id": 556,
+            "drug_name": "ranitidine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "150 mg"
+            ]
+        },
+        {
+            "id": 557,
+            "drug_name": "paracetamol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250 mg"
+            ]
+        },
+        {
+            "id": 558,
+            "drug_name": "Norflox-tz",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 559,
+            "drug_name": "Norflox-tz",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "400 mg"
+            ]
+        },
+        {
+            "id": 560,
+            "drug_name": "Tamen",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 561,
+            "drug_name": "voltid gel"
+        },
+        {
+            "id": 562,
+            "drug_name": "Multivit",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 563,
+            "drug_name": "Alben",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 564,
+            "drug_name": "X-trum gold",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 565,
+            "drug_name": "Flamyd ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg"
+            ]
+        },
+        {
+            "id": 566,
+            "drug_name": "Vidalin Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 567,
+            "drug_name": "Levasal",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 568,
+            "drug_name": "Unilin CR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 569,
+            "drug_name": "Calbo",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 570,
+            "drug_name": "Vomitop",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 571,
+            "drug_name": "Furex",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 572,
+            "drug_name": "Salflu",
+            "type": [
+                "Inhaler"
+            ]
+        },
+        {
+            "id": 573,
+            "drug_name": "Flatameal ds",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 574,
+            "drug_name": "Caldical",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 575,
+            "drug_name": "Maxima",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 576,
+            "drug_name": "Mebeverin",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 577,
+            "drug_name": "joinix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 578,
+            "drug_name": "joinix",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 579,
+            "drug_name": "koolmint cream"
+        },
+        {
+            "id": 580,
+            "drug_name": "Lindac",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 581,
+            "drug_name": "Lindac"
+        },
+        {
+            "id": 582,
+            "drug_name": "Lindac"
+        },
+        {
+            "id": 583,
+            "drug_name": "Ebatin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 584,
+            "drug_name": "CVnor-5",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 585,
+            "drug_name": "Alben DS",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 586,
+            "drug_name": "Algin",
+            "type": [
+                "Tab",
+                "Inj"
+            ]
+        },
+        {
+            "id": 587,
+            "drug_name": "Amodis",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "400 mg",
+                "80ml"
+            ]
+        },
+        {
+            "id": 588,
+            "drug_name": "Filwel kids",
+            "type": [
+                "Syp"
+            ],
+            "size": [
+                "100 ml",
+                "200 ml"
+            ]
+        },
+        {
+            "id": 589,
+            "drug_name": "salbu"
+        },
+        {
+            "id": 590,
+            "drug_name": "salbu",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 591,
+            "drug_name": "cef 3",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 592,
+            "drug_name": "Nebanol",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 593,
+            "drug_name": "Niocin ",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 594,
+            "drug_name": "TOPICORT"
+        },
+        {
+            "id": 595,
+            "drug_name": "FLACOL"
+        },
+        {
+            "id": 596,
+            "drug_name": "GLYSUP"
+        },
+        {
+            "id": 597,
+            "drug_name": "Epinal",
+            "type": [
+                "Suppos"
+            ]
+        },
+        {
+            "id": 598,
+            "drug_name": "Nid",
+            "type": [
+                "Syp"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 599,
+            "drug_name": "ORS",
+            "type": [
+                "Saline"
+            ]
+        },
+        {
+            "id": 600,
+            "drug_name": "folison",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 601,
+            "drug_name": "Eracet"
+        },
+        {
+            "id": 602,
+            "drug_name": "Eracet"
+        },
+        {
+            "id": 603,
+            "drug_name": "Neurolep"
+        },
+        {
+            "id": 604,
+            "drug_name": "Neurolep"
+        },
+        {
+            "id": 605,
+            "drug_name": "V-PLEX"
+        },
+        {
+            "id": 606,
+            "drug_name": "V-PLEX"
+        },
+        {
+            "id": 607,
+            "drug_name": "V-PLEX"
+        },
+        {
+            "id": 608,
+            "drug_name": "preclot",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 609,
+            "drug_name": "duopres",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/20"
+            ]
+        },
+        {
+            "id": 610,
+            "drug_name": "Trocer ",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 611,
+            "drug_name": "Avolac",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 612,
+            "drug_name": "Avolac",
+            "type": [
+                "Syp"
+            ],
+            "size": [
+                "200 ml"
+            ]
+        },
+        {
+            "id": 613,
+            "drug_name": "Beclo",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 614,
+            "drug_name": "Esita",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 615,
+            "drug_name": "Arian",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 616,
+            "drug_name": "laxena",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 617,
+            "drug_name": "Erdon eye drop"
+        },
+        {
+            "id": 618,
+            "drug_name": "Optimox eye drop"
+        },
+        {
+            "id": 619,
+            "drug_name": "vista "
+        },
+        {
+            "id": 620,
+            "drug_name": "Tritin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 621,
+            "drug_name": "Ticamet",
+            "type": [
+                "Inhaler"
+            ],
+            "size": [
+                "25/250 mic"
+            ]
+        },
+        {
+            "id": 622,
+            "drug_name": "Ventolin",
+            "type": [
+                "Inhaler"
+            ],
+            "size": [
+                "100 microgram"
+            ]
+        },
+        {
+            "id": 623,
+            "drug_name": "Flumetol",
+            "type": [
+                "Inhaler"
+            ],
+            "size": [
+                "25/250 mic"
+            ]
+        },
+        {
+            "id": 624,
+            "drug_name": "vildus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "60 mg"
+            ]
+        },
+        {
+            "id": 625,
+            "drug_name": "Dansel",
+            "type": [
+                "Shampoo"
+            ]
+        },
+        {
+            "id": 626,
+            "drug_name": "Folison",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 627,
+            "drug_name": "Secnid DS",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 628,
+            "drug_name": "Secnid DS",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 629,
+            "drug_name": "Olpadin",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "0.1 %"
+            ]
+        },
+        {
+            "id": 630,
+            "drug_name": "Itchin",
+            "type": [
+                "Eye Drop"
+            ]
+        },
+        {
+            "id": 631,
+            "drug_name": "Tobracin",
+            "type": [
+                "Eye Drop",
+                "Oint"
+            ]
+        },
+        {
+            "id": 632,
+            "drug_name": "Erian",
+            "type": [
+                "Oint"
+            ],
+            "size": [
+                "15mg"
+            ]
+        },
+        {
+            "id": 633,
+            "drug_name": "Comfort",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 634,
+            "drug_name": "Micoral",
+            "type": [
+                "Gel"
+            ]
+        },
+        {
+            "id": 635,
+            "drug_name": "MOXQUIN  XG  EYE DROP"
+        },
+        {
+            "id": 636,
+            "drug_name": "Ciprox",
+            "type": [
+                "Syp",
+                "Eye Drop"
+            ]
+        },
+        {
+            "id": 637,
+            "drug_name": "Feofol",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 638,
+            "drug_name": "Myolax",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg",
+                "100 mg"
+            ]
+        },
+        {
+            "id": 639,
+            "drug_name": "MOXQUIN  XG  EYE DROP"
+        },
+        {
+            "id": 640,
+            "drug_name": "Intimate",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg",
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 641,
+            "drug_name": "Intimate",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg",
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 642,
+            "drug_name": "Reelife",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 643,
+            "drug_name": "Hepaximin ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 644,
+            "drug_name": "acme milk of magnesia",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 645,
+            "drug_name": "mixtard 30"
+        },
+        {
+            "id": 646,
+            "drug_name": "mixtard 30",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "U-100,(S-1)"
+            ]
+        },
+        {
+            "id": 647,
+            "drug_name": "glipita M ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 648,
+            "drug_name": "Docopa",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 649,
+            "drug_name": "Moxifloxacin",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 650,
+            "drug_name": "Levofloxacin",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 651,
+            "drug_name": "Lomefioxacin",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 652,
+            "drug_name": "Chlorampheniconl",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 653,
+            "drug_name": "Tibilon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg"
+            ]
+        },
+        {
+            "id": 654,
+            "drug_name": "Vidalin Gold",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 655,
+            "drug_name": "Vidalin Silver",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 656,
+            "drug_name": "vanprox"
+        },
+        {
+            "id": 657,
+            "drug_name": "Alatrol",
+            "type": [
+                "Drops"
+            ]
+        },
+        {
+            "id": 658,
+            "drug_name": "vanprox",
+            "type": [
+                "Drops"
+            ]
+        },
+        {
+            "id": 659,
+            "drug_name": "solo",
+            "type": [
+                "Nasal Drop"
+            ]
+        },
+        {
+            "id": 660,
+            "drug_name": "Pizo A",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg",
+                "1.5 mg"
+            ]
+        },
+        {
+            "id": 661,
+            "drug_name": "acetaminophen",
+            "type": [
+                "Tab",
+                "Inj"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 662,
+            "drug_name": "omeprazole",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 663,
+            "drug_name": "famotidine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "150 mg"
+            ]
+        },
+        {
+            "id": 664,
+            "drug_name": "monteluast",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 665,
+            "drug_name": "cefixime",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "400 mg"
+            ]
+        },
+        {
+            "id": 666,
+            "drug_name": "Thyrox",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mcg",
+                "100 microgram"
+            ]
+        },
+        {
+            "id": 667,
+            "drug_name": "Ternilla",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 668,
+            "drug_name": "Linatab M",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg",
+                "850"
+            ]
+        },
+        {
+            "id": 669,
+            "drug_name": "Ciltip",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 671,
+            "drug_name": "ANSULIN 30/70",
+            "type": [
+                "Inj"
+            ]
+        },
+        {
+            "id": 672,
+            "drug_name": "Santogen",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 673,
+            "drug_name": "cardizem",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg"
+            ]
+        },
+        {
+            "id": 674,
+            "drug_name": "Pep plus",
+            "type": [
+                "Syp"
+            ],
+            "size": [
+                "100 ml"
+            ]
+        },
+        {
+            "id": 675,
+            "drug_name": "osartil 100 plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 676,
+            "drug_name": "osartil 100 plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 677,
+            "drug_name": "osartil 100 plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 678,
+            "drug_name": "osartil 100 plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 679,
+            "drug_name": "NovoMix30",
+            "type": [
+                "Inj"
+            ]
+        },
+        {
+            "id": 680,
+            "drug_name": "NovoMix30",
+            "type": [
+                "Inj"
+            ]
+        },
+        {
+            "id": 681,
+            "drug_name": "Glustin Max",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 682,
+            "drug_name": "GENTA",
+            "type": [
+                "Ear Drop"
+            ]
+        },
+        {
+            "id": 683,
+            "drug_name": "ROZITH",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 684,
+            "drug_name": "Lopadin0.1%",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "0.1 %"
+            ]
+        },
+        {
+            "id": 685,
+            "drug_name": "Linarol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 686,
+            "drug_name": "fluzin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 687,
+            "drug_name": "DIALIPTIN M 850",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "850"
+            ]
+        },
+        {
+            "id": 688,
+            "drug_name": "levoxin",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 689,
+            "drug_name": "Ovel",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 690,
+            "drug_name": "beuflox",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 691,
+            "drug_name": "lovicin"
+        },
+        {
+            "id": 692,
+            "drug_name": "lovicin",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 693,
+            "drug_name": "napa extra",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 694,
+            "drug_name": "levoxin ts",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 695,
+            "drug_name": "flexi",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 696,
+            "drug_name": "movex",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 697,
+            "drug_name": "zolfin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 698,
+            "drug_name": "clof",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 699,
+            "drug_name": "ovel ts",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 700,
+            "drug_name": "levoxin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 701,
+            "drug_name": "levobac",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 702,
+            "drug_name": "levosina",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 703,
+            "drug_name": "Evo",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 704,
+            "drug_name": "Genolev",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 705,
+            "drug_name": "Genolev ts",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 706,
+            "drug_name": "Levomax",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 707,
+            "drug_name": "Trevox",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 708,
+            "drug_name": "levox",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 709,
+            "drug_name": "ace plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "665 mg"
+            ]
+        },
+        {
+            "id": 710,
+            "drug_name": "Napa",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 711,
+            "drug_name": "Renova",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 712,
+            "drug_name": "Renova plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 713,
+            "drug_name": "Aprocin",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 714,
+            "drug_name": "Civox",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 715,
+            "drug_name": "Ciprocin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 716,
+            "drug_name": "Optimox",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 717,
+            "drug_name": "epinast",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 718,
+            "drug_name": "mfc",
+            "type": [
+                "Ear Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 719,
+            "drug_name": "namicin",
+            "type": [
+                "Ear Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 720,
+            "drug_name": "lovicin",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 721,
+            "drug_name": "nicin",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 722,
+            "drug_name": "flurolon",
+            "type": [
+                "Eye Drops"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 723,
+            "drug_name": "hypro",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 724,
+            "drug_name": "ocutifen",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 725,
+            "drug_name": "opd",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 726,
+            "drug_name": "opd ds"
+        },
+        {
+            "id": 727,
+            "drug_name": "ologen",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 728,
+            "drug_name": "optimox",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 729,
+            "drug_name": "optimox XG",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 730,
+            "drug_name": "lotepred",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 731,
+            "drug_name": "AFM T",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 732,
+            "drug_name": "sodicrom ds",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 733,
+            "drug_name": "beuflox",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 734,
+            "drug_name": "lopadol",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 735,
+            "drug_name": "dexaguard",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 736,
+            "drug_name": "teargen",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 737,
+            "drug_name": "cuvir",
+            "type": [
+                "Oint"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 738,
+            "drug_name": "genclovir",
+            "type": [
+                "Oint"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 739,
+            "drug_name": "levoxin",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 740,
+            "drug_name": "levoxin ts",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 741,
+            "drug_name": "hypro extra",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 742,
+            "drug_name": "loteflam",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 743,
+            "drug_name": "loteflam T",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 744,
+            "drug_name": "tearfrsh liquigel",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 745,
+            "drug_name": "catrix",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 746,
+            "drug_name": "alcet",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 747,
+            "drug_name": "I GUARD",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 748,
+            "drug_name": "ARISTOPHEN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 749,
+            "drug_name": "CLORAM",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 750,
+            "drug_name": "CIVOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 751,
+            "drug_name": "APROCIN"
+        },
+        {
+            "id": 752,
+            "drug_name": "MEXLO",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 753,
+            "drug_name": "LOFLOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 754,
+            "drug_name": "LYFLOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 755,
+            "drug_name": "LOMEGEN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 756,
+            "drug_name": "LOMEFLOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 757,
+            "drug_name": "LOMEQUIN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 758,
+            "drug_name": "LOMEBAC",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 759,
+            "drug_name": "LEVOGEN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 760,
+            "drug_name": "LEVOGEN TS",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 761,
+            "drug_name": "LEVOBAC",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 762,
+            "drug_name": "LEVOBAC TS",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 763,
+            "drug_name": "LEVOCINA",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 764,
+            "drug_name": "OVEL",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 765,
+            "drug_name": "OVEL TS",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 766,
+            "drug_name": "MOXIBAC",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 767,
+            "drug_name": "MOXIBAC XG",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 768,
+            "drug_name": "FLOMOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 769,
+            "drug_name": "FLOROMOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 770,
+            "drug_name": "MOXIVIN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 771,
+            "drug_name": "MOXQUIN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 772,
+            "drug_name": "MOXQUIN XG",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 773,
+            "drug_name": "MOXIGEN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 774,
+            "drug_name": "IVENTY",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 775,
+            "drug_name": "CYPORIN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 776,
+            "drug_name": "SPORIUM",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 777,
+            "drug_name": "EPINAST",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 778,
+            "drug_name": "T MYCIN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 779,
+            "drug_name": "T MYCIN PLUS",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 780,
+            "drug_name": "T MYCIN PLUS",
+            "type": [
+                "Eye Drop",
+                "Oint"
+            ],
+            "size": [
+                "5ml",
+                "3.5 gm"
+            ]
+        },
+        {
+            "id": 781,
+            "drug_name": "ATROPIN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 782,
+            "drug_name": "XOVIRAL"
+        },
+        {
+            "id": 783,
+            "drug_name": "XOVIRAL",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 784,
+            "drug_name": "Tmycin",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 785,
+            "drug_name": "Tmycin",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 786,
+            "drug_name": "Tmycin",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 787,
+            "drug_name": "Tmycin",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 788,
+            "drug_name": "lotrel T",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 789,
+            "drug_name": "des",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 790,
+            "drug_name": "optafenac ts",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 791,
+            "drug_name": "optafenac",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 792,
+            "drug_name": "XPA C",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg SR"
+            ]
+        },
+        {
+            "id": 793,
+            "drug_name": "XPA",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg SR"
+            ]
+        },
+        {
+            "id": 794,
+            "drug_name": "AFM",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 795,
+            "drug_name": "AFM PLUS",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 796,
+            "drug_name": "AFM PLUS",
+            "type": [
+                "Oint"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 797,
+            "drug_name": "ACE",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 798,
+            "drug_name": "ACE PLUS",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500mg"
+            ]
+        },
+        {
+            "id": 799,
+            "drug_name": "olorid",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 800,
+            "drug_name": "olorid  Ds",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 801,
+            "drug_name": "acyvir",
+            "type": [
+                "Oint"
+            ],
+            "size": [
+                "3.5 gm"
+            ]
+        },
+        {
+            "id": 802,
+            "drug_name": "alacot",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 803,
+            "drug_name": "alacot  Ds",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 804,
+            "drug_name": "alacot  Ds",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 805,
+            "drug_name": "alarid",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 806,
+            "drug_name": "ALARID",
+            "type": [
+                "Syp"
+            ],
+            "size": [
+                "100 ml"
+            ]
+        },
+        {
+            "id": 807,
+            "drug_name": "ALARID",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 808,
+            "drug_name": "ALATROL",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 809,
+            "drug_name": "ANTAZOL",
+            "type": [
+                "Nasal Drop"
+            ],
+            "size": [
+                "0.1 %"
+            ]
+        },
+        {
+            "id": 810,
+            "drug_name": "LACRISON",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 811,
+            "drug_name": "LACRISON  T",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 812,
+            "drug_name": "ARTEAR",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 813,
+            "drug_name": "AUTOTEAR",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 814,
+            "drug_name": "AVATAN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "3ml"
+            ]
+        },
+        {
+            "id": 815,
+            "drug_name": "A-Z",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 816,
+            "drug_name": "AZECOL",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 817,
+            "drug_name": "BIMOLET",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 818,
+            "drug_name": "B FENAC",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 819,
+            "drug_name": "BINOZOL",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 820,
+            "drug_name": "BRIMOPRES",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 821,
+            "drug_name": "BROMOPHEN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 822,
+            "drug_name": "CATNIL",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 823,
+            "drug_name": "TAFLAN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "3ml"
+            ]
+        },
+        {
+            "id": 824,
+            "drug_name": "CEVALIN",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "250mg"
+            ]
+        },
+        {
+            "id": 825,
+            "drug_name": "CHLORMET",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 826,
+            "drug_name": "CIPRO A",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 827,
+            "drug_name": "ULTRAFEN SR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 SR"
+            ]
+        },
+        {
+            "id": 828,
+            "drug_name": "CLORAM D",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 829,
+            "drug_name": "CLOVIR",
+            "type": [
+                "Oint"
+            ],
+            "size": [
+                "5 gm"
+            ]
+        },
+        {
+            "id": 830,
+            "drug_name": "COMBAT",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 831,
+            "drug_name": "COMBIPRES",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 832,
+            "drug_name": "CORTAN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 833,
+            "drug_name": "CORTAN TAB",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 834,
+            "drug_name": "CORTAN TAB",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 835,
+            "drug_name": "CORTISOL",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 836,
+            "drug_name": "CYCLORIN",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 837,
+            "drug_name": "CYCLOVEX",
+            "type": [
+                "Oint"
+            ],
+            "size": [
+                "5 gm"
+            ]
+        },
+        {
+            "id": 838,
+            "drug_name": "DEXON G",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 839,
+            "drug_name": "DEXON",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 840,
+            "drug_name": "DEXTROBAC",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 841,
+            "drug_name": "DEXCHLOR",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 842,
+            "drug_name": "DEXCHLOR",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 843,
+            "drug_name": "LUBREX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 844,
+            "drug_name": "AQUA",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 845,
+            "drug_name": "DILATE",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 846,
+            "drug_name": "DOXY A",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 847,
+            "drug_name": "ETORAC",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 848,
+            "drug_name": "EVO TS",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 849,
+            "drug_name": "EYEMOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 850,
+            "drug_name": "EYEFRESH",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 851,
+            "drug_name": "EYEVI",
+            "type": [
+                "Cap"
+            ]
+        },
+        {
+            "id": 852,
+            "drug_name": "EYLON",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 853,
+            "drug_name": "FEXO 120MG TAB",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 854,
+            "drug_name": "FEXO 180 MG TAB",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 855,
+            "drug_name": "FILTEAR",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 856,
+            "drug_name": "FLEXI",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 857,
+            "drug_name": "FLURIUM 5MG",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 858,
+            "drug_name": "FLURIUM 10MG",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 859,
+            "drug_name": "FLURIZIN 5MG",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg"
+            ]
+        },
+        {
+            "id": 860,
+            "drug_name": "FLURIZIN 10MG",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 861,
+            "drug_name": "FRESHTEAR P",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 862,
+            "drug_name": "FRESHTEAR ",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 863,
+            "drug_name": "FLUROMET",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 864,
+            "drug_name": "GENAGEL",
+            "type": [
+                "Gel"
+            ]
+        },
+        {
+            "id": 865,
+            "drug_name": "GATIDEX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 866,
+            "drug_name": "GATIFLOX",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 867,
+            "drug_name": "GLAMOR",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 868,
+            "drug_name": "I GOLD",
+            "type": [
+                "Cap"
+            ]
+        },
+        {
+            "id": 869,
+            "drug_name": "INTOBAC",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 870,
+            "drug_name": "ISOLON",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 871,
+            "drug_name": "KETOF",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 872,
+            "drug_name": "KETOMER",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 873,
+            "drug_name": "LAXYL",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "3 mg"
+            ]
+        },
+        {
+            "id": 874,
+            "drug_name": "tofen",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 875,
+            "drug_name": "allerkit E",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 876,
+            "drug_name": "TEBAST",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 877,
+            "drug_name": "MOVEX",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "100 mg"
+            ]
+        },
+        {
+            "id": 878,
+            "drug_name": "nevan",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 879,
+            "drug_name": "nevan ts",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 880,
+            "drug_name": "fomox",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 881,
+            "drug_name": "tobam",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 882,
+            "drug_name": "tearcol",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "10ml"
+            ]
+        },
+        {
+            "id": 883,
+            "drug_name": "lopadine",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 884,
+            "drug_name": "lopadine ds",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 885,
+            "drug_name": "loratadin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 886,
+            "drug_name": "lorfast",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 887,
+            "drug_name": "lotenol",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 888,
+            "drug_name": "lotenol T",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 889,
+            "drug_name": "lotepro",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 890,
+            "drug_name": "lotepro plus",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 891,
+            "drug_name": "alarid",
+            "type": [
+                "Eye Drop"
+            ],
+            "size": [
+                "5ml"
+            ]
+        },
+        {
+            "id": 892,
+            "drug_name": "oradexon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "0.5 mg"
+            ]
+        },
+        {
+            "id": 893,
+            "drug_name": "Doxiva"
+        },
+        {
+            "id": 894,
+            "drug_name": "Doxiva",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 895,
+            "drug_name": "Asmafen",
+            "type": [
+                "Tab",
+                "Syp"
+            ],
+            "size": [
+                "1 mg"
+            ]
+        },
+        {
+            "id": 896,
+            "drug_name": "Docopa",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 897,
+            "drug_name": "metfoXR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "750 mg"
+            ]
+        },
+        {
+            "id": 898,
+            "drug_name": "metfoXR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "750 mg"
+            ]
+        },
+        {
+            "id": 899,
+            "drug_name": "Pedilid",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "300 mg"
+            ]
+        },
+        {
+            "id": 900,
+            "drug_name": "Ubilon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg"
+            ]
+        },
+        {
+            "id": 901,
+            "drug_name": "Ubilon",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.5 mg"
+            ]
+        },
+        {
+            "id": 902,
+            "drug_name": "Aristocort",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "40 mg"
+            ]
+        },
+        {
+            "id": 903,
+            "drug_name": "pregalin",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 904,
+            "drug_name": "BINOCLAR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "500 mg",
+                "250 mg"
+            ]
+        },
+        {
+            "id": 905,
+            "drug_name": "Aspirin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg",
+                "300 mg"
+            ]
+        },
+        {
+            "id": 906,
+            "drug_name": "Virux",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "400 mg"
+            ]
+        },
+        {
+            "id": 907,
+            "drug_name": "Lasix",
+            "type": [
+                "Inj"
+            ],
+            "size": [
+                "20mg"
+            ]
+        },
+        {
+            "id": 908,
+            "drug_name": "Emistat",
+            "type": [
+                "Syp"
+            ]
+        },
+        {
+            "id": 909,
+            "drug_name": "DEPRAM",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg"
+            ]
+        },
+        {
+            "id": 910,
+            "drug_name": "Nidipro 50/20",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 911,
+            "drug_name": "Camlosart",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/20"
+            ]
+        },
+        {
+            "id": 912,
+            "drug_name": "Bactrocin",
+            "type": [
+                "Oint"
+            ]
+        },
+        {
+            "id": 913,
+            "drug_name": "Grisovin-FP",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 914,
+            "drug_name": "Fulcinex-faste",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "500 mg"
+            ]
+        },
+        {
+            "id": 915,
+            "drug_name": "Candex Drop",
+            "type": [
+                "Drops"
+            ]
+        },
+        {
+            "id": 916,
+            "drug_name": "Lioresal",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg"
+            ]
+        },
+        {
+            "id": 917,
+            "drug_name": "Ketoral"
+        },
+        {
+            "id": 918,
+            "drug_name": "Ketocon"
+        },
+        {
+            "id": 919,
+            "drug_name": "Lioresal",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "25 mg"
+            ]
+        },
+        {
+            "id": 920,
+            "drug_name": "Sirdalud",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2mg"
+            ]
+        },
+        {
+            "id": 921,
+            "drug_name": "Alagra",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "60 mg",
+                "120 mg",
+                "180 mg"
+            ]
+        },
+        {
+            "id": 922,
+            "drug_name": "Axodin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "30 mg",
+                "60 mg",
+                "120 mg",
+                "180 mg"
+            ]
+        },
+        {
+            "id": 923,
+            "drug_name": "Visceralgine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 924,
+            "drug_name": "Norvis",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 925,
+            "drug_name": "Neurovit",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 926,
+            "drug_name": "Neuro-B",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 927,
+            "drug_name": "B-50 forte",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 928,
+            "drug_name": "Onsat",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "8mg"
+            ]
+        },
+        {
+            "id": 929,
+            "drug_name": "Cinaron",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "15mg"
+            ]
+        },
+        {
+            "id": 930,
+            "drug_name": "Cinaryl",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "15mg"
+            ]
+        },
+        {
+            "id": 931,
+            "drug_name": "Revert",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 932,
+            "drug_name": "Monocast",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg",
+                "4 mg"
+            ]
+        },
+        {
+            "id": 933,
+            "drug_name": "Respira",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2 mg",
+                "1 mg"
+            ]
+        },
+        {
+            "id": 934,
+            "drug_name": "Acliz Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 935,
+            "drug_name": "Clizin Plus",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 936,
+            "drug_name": "Contine",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "200 mg",
+                "300 mg",
+                "400 mg"
+            ]
+        },
+        {
+            "id": 937,
+            "drug_name": "Seretide Evohaler"
+        },
+        {
+            "id": 938,
+            "drug_name": "Flona nasal spray"
+        },
+        {
+            "id": 939,
+            "drug_name": "Beclomin",
+            "type": [
+                "Nasal Drop"
+            ]
+        },
+        {
+            "id": 940,
+            "drug_name": "Decomit",
+            "type": [
+                "Nasal Drop"
+            ]
+        },
+        {
+            "id": 941,
+            "drug_name": "Atova",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg"
+            ]
+        },
+        {
+            "id": 942,
+            "drug_name": "Anzitor",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 943,
+            "drug_name": "Tranex",
+            "type": [
+                "Cap"
+            ],
+            "size": [
+                "250 mg",
+                "500 mg"
+            ]
+        },
+        {
+            "id": 944,
+            "drug_name": "Traxyl",
+            "type": [
+                "Inj"
+            ]
+        },
+        {
+            "id": 945,
+            "drug_name": "Caprolisin injection",
+            "type": [
+                "Inj"
+            ]
+        },
+        {
+            "id": 946,
+            "drug_name": "Cardoprin",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 947,
+            "drug_name": "Aciprin CV",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "75 mg"
+            ]
+        },
+        {
+            "id": 948,
+            "drug_name": "Nifin ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg"
+            ]
+        },
+        {
+            "id": 949,
+            "drug_name": "Amlocard",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5 mg",
+                "10 mg"
+            ]
+        },
+        {
+            "id": 950,
+            "drug_name": "Nidocard Retard",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.6 mg"
+            ]
+        },
+        {
+            "id": 951,
+            "drug_name": "Angist SR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.6 mg"
+            ]
+        },
+        {
+            "id": 952,
+            "drug_name": "Nidocard Spray"
+        },
+        {
+            "id": 953,
+            "drug_name": "Nitrocoutine SR",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "2.6 mg"
+            ]
+        },
+        {
+            "id": 954,
+            "drug_name": "Nitrosol Spray"
+        },
+        {
+            "id": 955,
+            "drug_name": "Prosan HZ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                " 50+12.5",
+                "100+12.5"
+            ]
+        },
+        {
+            "id": 956,
+            "drug_name": "Angilock plus",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                " 50+12.5",
+                "100+12.5"
+            ]
+        },
+        {
+            "id": 957,
+            "drug_name": "Amdocal plus ",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "25 mg",
+                "50 mg"
+            ]
+        },
+        {
+            "id": 958,
+            "drug_name": "Metaloc",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "50 mg"
+            ]
+        },
+        {
+            "id": 959,
+            "drug_name": "Adlock",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg",
+                "40"
+            ]
+        },
+        {
+            "id": 960,
+            "drug_name": "Propranol",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 961,
+            "drug_name": "Amlosartan",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/ 80",
+                "5/160",
+                "10/160"
+            ]
+        },
+        {
+            "id": 963,
+            "drug_name": "Duopress",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/20"
+            ]
+        },
+        {
+            "id": 964,
+            "drug_name": "Abetis",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "10 mg",
+                "20mg",
+                "40 mg"
+            ]
+        },
+        {
+            "id": 965,
+            "drug_name": "Camoval",
+            "type": [
+                "Tab"
+            ],
+            "size": [
+                "5/ 80",
+                "5/160"
+            ]
+        },
+        {
+            "id": 966,
+            "drug_name": "Normanal",
+            "type": [
+                "Tab"
+            ]
+        },
+        {
+            "id": 967,
+            "drug_name": "Hemorif",
+            "type": [
+                "Tab"
+            ]
+        }
+    ],
+    "add_tests": [
+        {
+            "id": 23,
+            "title": "Xray of C/S spine P/A view"
+        },
+        {
+            "id": 24,
+            "title": "Xray lumbo-sacral joint P/A view"
+        },
+        {
+            "id": 25,
+            "title": "X-ray wrist joint"
+        },
+        {
+            "id": 26,
+            "title": "X-ray thoracolumber spine B/V"
+        },
+        {
+            "id": 27,
+            "title": "X-ray rt shoulder joint both view"
+        },
+        {
+            "id": 28,
+            "title": "X-ray rt ankle joint(both view)"
+        },
+        {
+            "id": 29,
+            "title": "X-ray right elbow joint (b/w)"
+        },
+        {
+            "id": 30,
+            "title": "X-Ray PNS OM view"
+        },
+        {
+            "id": 31,
+            "title": "X-Ray pelvis B/V"
+        },
+        {
+            "id": 32,
+            "title": "X-Ray of Both hand A/P view"
+        },
+        {
+            "id": 33,
+            "title": "X-RAY LUMBOSACRAL SPINE BOTH VIEW"
+        },
+        {
+            "id": 34,
+            "title": "X-Ray left knee both view"
+        },
+        {
+            "id": 35,
+            "title": "X-Ray KUB"
+        },
+        {
+            "id": 36,
+            "title": "X-Ray knee joint both view"
+        },
+        {
+            "id": 37,
+            "title": "X-ray chest P/A view or CxR P/A View or XRC P/A view"
+        },
+        {
+            "id": 38,
+            "title": "X ray rt foot both view"
+        },
+        {
+            "id": 39,
+            "title": "X Ray of Dorsal Spine B/V"
+        },
+        {
+            "id": 40,
+            "title": "X ray Neck B/V"
+        },
+        {
+            "id": 41,
+            "title": "X ray Dorsolumber spine B/V"
+        },
+        {
+            "id": 42,
+            "title": "X -ray cervical spine B /V"
+        }
+    ],
+    "hospitals_list": [
+        {
+            "id": 1,
+            "title": "Bangabandhu Sheikh Mujib Medical University (BSMMU)"
+        },
+        {
+            "id": 2,
+            "title": "Dhaka Medical College and Hospital"
+        },
+        {
+            "id": 3,
+            "title": "Grameen GC Eye Hospital"
+        },
+        {
+            "id": 4,
+            "title": "Sir– Salimullah Medical College Hospital"
+        },
+        {
+            "id": 5,
+            "title": "Bogra Medical College Hospital"
+        },
+        {
+            "id": 6,
+            "title": "General Hospital"
+        },
+        {
+            "id": 7,
+            "title": "Sadar Hospital"
+        },
+        {
+            "id": 8,
+            "title": "National Institute of Mental Health, Pabna (NIMH-Pabna)"
+        },
+        {
+            "id": 9,
+            "title": "National Institute of Cancer Research and Hospital (NICR&H)"
+        },
+        {
+            "id": 10,
+            "title": "National Center for Rheumatic Fever and Heart Diseases"
+        },
+        {
+            "id": 11,
+            "title": "National Institute of Diseases of Chest and Hospital (NIDCH)"
+        },
+        {
+            "id": 12,
+            "title": "National Institute of Cardiovascular Diseases"
+        },
+        {
+            "id": 13,
+            "title": "National Institute of Traumatology and Orthopedic Rehabilitation"
+        },
+        {
+            "id": 14,
+            "title": "Dhaka Shishu Hospital"
+        },
+        {
+            "id": 15,
+            "title": "Upazila Health Complex"
+        },
+        {
+            "id": 16,
+            "title": "Bangabandhu Sheikh Mujib Medical University (BSMMU)"
+        },
+        {
+            "id": 17,
+            "title": "Dhaka Medical College and Hospital"
+        },
+        {
+            "id": 18,
+            "title": "Grameen GC Eye Hospital"
+        },
+        {
+            "id": 19,
+            "title": "Sir– Salimullah Medical College Hospital"
+        },
+        {
+            "id": 20,
+            "title": "Bogra Medical College Hospital"
+        },
+        {
+            "id": 21,
+            "title": "General Hospital"
+        },
+        {
+            "id": 22,
+            "title": "Sadar Hospital"
+        },
+        {
+            "id": 23,
+            "title": "National Institute of Mental Health, Pabna (NIMH-Pabna)"
+        },
+        {
+            "id": 24,
+            "title": "National Institute of Cancer Research and Hospital (NICR&H)"
+        },
+        {
+            "id": 25,
+            "title": "National Center for Rheumatic Fever and Heart Diseases"
+        },
+        {
+            "id": 26,
+            "title": "National Institute of Diseases of Chest and Hospital (NIDCH)"
+        },
+        {
+            "id": 27,
+            "title": "National Institute of Cardiovascular Diseases"
+        },
+        {
+            "id": 28,
+            "title": "National Institute of Traumatology and Orthopedic Rehabilitation"
+        },
+        {
+            "id": 29,
+            "title": "Dhaka Shishu Hospital"
+        },
+        {
+            "id": 30,
+            "title": "Upazila Health Complex"
+        }
+    ]
+}
